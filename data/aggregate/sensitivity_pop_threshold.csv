@@ -1,0 +1,16 @@
+Scenario,Threshold,Threshold_num,N_covered,N_uncovered,Pop_covered_pct,Strokes_covered_pct,Diff_pp
+Stroke Units (30 min),>10%,0.1,381,19,97.5,97.2,0.3
+Stroke Units (30 min),>25%,0.25,372,28,96.4,95.9,0.4
+Stroke Units (30 min),>50%,0.5,339,61,90.4,89.5,0.9
+Stroke Units (30 min),>75%,0.75,284,116,78.7,76.9,1.8
+Stroke Units (30 min),>90%,0.9,207,193,62.0,59.5,2.4
+Lysis ≥25/yr (30 min),>10%,0.1,394,6,99.3,99.2,0.1
+Lysis ≥25/yr (30 min),>25%,0.25,388,12,98.4,98.3,0.1
+Lysis ≥25/yr (30 min),>50%,0.5,365,35,95.2,94.6,0.5
+Lysis ≥25/yr (30 min),>75%,0.75,317,83,85.5,84.3,1.2
+Lysis ≥25/yr (30 min),>90%,0.9,230,170,67.3,65.0,2.3
+Thrombectomy ≥25/yr (60 min),>10%,0.1,398,2,99.7,99.7,0.0
+Thrombectomy ≥25/yr (60 min),>25%,0.25,397,3,99.4,99.3,0.1
+Thrombectomy ≥25/yr (60 min),>50%,0.5,394,6,99.1,99.0,0.2
+Thrombectomy ≥25/yr (60 min),>75%,0.75,384,16,97.4,97.1,0.3
+Thrombectomy ≥25/yr (60 min),>90%,0.9,362,38,93.6,92.9,0.8

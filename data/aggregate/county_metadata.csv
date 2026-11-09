@@ -1,0 +1,401 @@
+krs_code_str,krs_name_str,lan_name_str,urban_rural
+01004,Kreisfreie Stadt Neumünster,Schleswig-Holstein,urban
+03404,Kreisfreie Stadt Osnabrück,Niedersachsen,urban
+05116,Kreisfreie Stadt Mönchengladbach,Nordrhein-Westfalen,urban
+05558,Kreis Coesfeld,Nordrhein-Westfalen,rural
+05774,Kreis Paderborn,Nordrhein-Westfalen,urban
+06611,Kreisfreie Stadt Kassel,Hessen,urban
+06632,Landkreis Hersfeld-Rotenburg,Hessen,rural
+06634,Landkreis Schwalm-Eder-Kreis,Hessen,rural
+07143,Landkreis Westerwaldkreis,Rheinland-Pfalz,rural
+07311,Kreisfreie Stadt Frankenthal (Pfalz),Rheinland-Pfalz,urban
+08115,Landkreis Böblingen,Baden-Württemberg,rural
+09372,Landkreis Cham,Bayern,rural
+10044,Landkreis Saarlouis,Saarland,urban
+15082,Landkreis Anhalt-Bitterfeld,Sachsen-Anhalt,urban
+15086,Landkreis Jerichower Land,Sachsen-Anhalt,rural
+16065,Landkreis Kyffhäuserkreis,Thüringen,rural
+03157,Landkreis Peine,Niedersachsen,rural
+05316,Kreisfreie Stadt Leverkusen,Nordrhein-Westfalen,urban
+05954,Kreis Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,urban
+05962,Kreis Märkischer Kreis,Nordrhein-Westfalen,rural
+07131,Landkreis Ahrweiler,Rheinland-Pfalz,rural
+08211,Stadtkreis Baden-Baden,Baden-Württemberg,rural
+08337,Landkreis Waldshut,Baden-Württemberg,rural
+09173,Landkreis Bad Tölz-Wolfratshausen,Bayern,rural
+09275,Landkreis Passau,Bayern,rural
+09478,Landkreis Lichtenfels,Bayern,rural
+09479,Landkreis Wunsiedel i.Fichtelgebirge,Bayern,rural
+09571,Landkreis Ansbach,Bayern,rural
+09663,Kreisfreie Stadt Würzburg,Bayern,urban
+12067,Landkreis Oder-Spree,Brandenburg,rural
+12069,Landkreis Potsdam-Mittelmark,Brandenburg,rural
+12073,Landkreis Uckermark,Brandenburg,rural
+14628,Landkreis Sächsische Schweiz-Osterzgebirge,Sachsen,rural
+14713,Kreisfreie Stadt Leipzig,Sachsen,urban
+16053,Kreisfreie Stadt Jena,Thüringen,urban
+16067,Landkreis Gotha,Thüringen,rural
+01056,Kreis Pinneberg,Schleswig-Holstein,rural
+01059,Kreis Schleswig-Flensburg,Schleswig-Holstein,rural
+01061,Kreis Steinburg,Schleswig-Holstein,rural
+03361,Landkreis Verden,Niedersachsen,rural
+03401,Kreisfreie Stadt Delmenhorst,Niedersachsen,urban
+05154,Kreis Kleve,Nordrhein-Westfalen,rural
+05758,Kreis Herford,Nordrhein-Westfalen,rural
+05913,Kreisfreie Stadt Dortmund,Nordrhein-Westfalen,urban
+06414,Kreisfreie Stadt Wiesbaden,Hessen,urban
+06434,Landkreis Hochtaunuskreis,Hessen,rural
+06633,Landkreis Kassel,Hessen,rural
+07135,Landkreis Cochem-Zell,Rheinland-Pfalz,rural
+07141,Landkreis Rhein-Lahn-Kreis,Rheinland-Pfalz,rural
+08121,Stadtkreis Heilbronn,Baden-Württemberg,urban
+09376,Landkreis Schwandorf,Bayern,rural
+09778,Landkreis Unterallgäu,Bayern,rural
+12053,Kreisfreie Stadt Frankfurt (Oder),Brandenburg,rural
+12061,Landkreis Dahme-Spreewald,Brandenburg,rural
+14729,Landkreis Leipzig,Sachsen,rural
+15003,Kreisfreie Stadt Magdeburg,Sachsen-Anhalt,urban
+16063,Landkreis Wartburgkreis,Thüringen,rural
+16064,Landkreis Unstrut-Hainich-Kreis,Thüringen,rural
+05711,Kreisfreie Stadt Bielefeld,Nordrhein-Westfalen,urban
+05911,Kreisfreie Stadt Bochum,Nordrhein-Westfalen,urban
+06631,Landkreis Fulda,Hessen,rural
+08216,Landkreis Rastatt,Baden-Württemberg,urban
+08315,Landkreis Breisgau-Hochschwarzwald,Baden-Württemberg,rural
+09175,Landkreis Ebersberg,Bayern,urban
+09277,Landkreis Rottal-Inn,Bayern,rural
+09471,Landkreis Bamberg,Bayern,urban
+09678,Landkreis Schweinfurt,Bayern,urban
+10046,Landkreis St. Wendel,Saarland,rural
+15085,Landkreis Harz,Sachsen-Anhalt,rural
+16052,Kreisfreie Stadt Gera,Thüringen,urban
+16055,Kreisfreie Stadt Weimar,Thüringen,urban
+03255,Landkreis Holzminden,Niedersachsen,rural
+03456,Landkreis Grafschaft Bentheim,Niedersachsen,rural
+05762,Kreis Höxter,Nordrhein-Westfalen,rural
+06534,Landkreis Marburg-Biedenkopf,Hessen,rural
+07140,Landkreis Rhein-Hunsrück-Kreis,Rheinland-Pfalz,rural
+07232,Landkreis Eifelkreis Bitburg-Prüm,Rheinland-Pfalz,rural
+09177,Landkreis Erding,Bayern,rural
+09271,Landkreis Deggendorf,Bayern,rural
+09577,Landkreis Weißenburg-Gunzenhausen,Bayern,rural
+09776,Landkreis Lindau (Bodensee),Bayern,rural
+13003,Kreisfreie Stadt Rostock,Mecklenburg-Vorpommern,urban
+13072,Landkreis Rostock,Mecklenburg-Vorpommern,rural
+13075,Landkreis Vorpommern-Greifswald,Mecklenburg-Vorpommern,rural
+14522,Landkreis Mittelsachsen,Sachsen,rural
+16066,Landkreis Schmalkalden-Meiningen,Thüringen,rural
+01003,Kreisfreie Stadt Lübeck,Schleswig-Holstein,urban
+01054,Kreis Nordfriesland,Schleswig-Holstein,rural
+03155,Landkreis Northeim,Niedersachsen,rural
+03405,Kreisfreie Stadt Wilhelmshaven,Niedersachsen,urban
+05113,Kreisfreie Stadt Essen,Nordrhein-Westfalen,urban
+05515,Kreisfreie Stadt Münster,Nordrhein-Westfalen,urban
+05562,Kreis Recklinghausen,Nordrhein-Westfalen,urban
+06438,Landkreis Offenbach,Hessen,urban
+07211,Kreisfreie Stadt Trier,Rheinland-Pfalz,urban
+07231,Landkreis Bernkastel-Wittlich,Rheinland-Pfalz,rural
+07319,Kreisfreie Stadt Worms,Rheinland-Pfalz,urban
+08125,Landkreis Heilbronn,Baden-Württemberg,rural
+09161,Kreisfreie Stadt Ingolstadt,Bayern,rural
+09474,Landkreis Forchheim,Bayern,rural
+09572,Landkreis Erlangen-Höchstadt,Bayern,rural
+15087,Landkreis Mansfeld-Südharz,Sachsen-Anhalt,rural
+05770,Kreis Minden-Lübbecke,Nordrhein-Westfalen,rural
+05915,Kreisfreie Stadt Hamm,Nordrhein-Westfalen,urban
+06436,Landkreis Main-Taunus-Kreis,Hessen,rural
+07314,Kreisfreie Stadt Ludwigshafen am Rhein,Rheinland-Pfalz,rural
+08116,Landkreis Esslingen,Baden-Württemberg,urban
+09174,Landkreis Dachau,Bayern,rural
+09672,Landkreis Bad Kissingen,Bayern,rural
+16051,Kreisfreie Stadt Erfurt,Thüringen,urban
+01001,Kreisfreie Stadt Flensburg,Schleswig-Holstein,urban
+01051,Kreis Dithmarschen,Schleswig-Holstein,rural
+03252,Landkreis Hameln-Pyrmont,Niedersachsen,urban
+03351,Landkreis Celle,Niedersachsen,rural
+03353,Landkreis Harburg,Niedersachsen,urban
+05111,Kreisfreie Stadt Düsseldorf,Nordrhein-Westfalen,urban
+05358,Kreis Düren,Nordrhein-Westfalen,urban
+05974,Kreis Soest,Nordrhein-Westfalen,rural
+06411,Kreisfreie Stadt Darmstadt,Hessen,urban
+06413,Kreisfreie Stadt Offenbach am Main,Hessen,urban
+06636,Landkreis Werra-Meißner-Kreis,Hessen,rural
+07137,Landkreis Mayen-Koblenz,Rheinland-Pfalz,rural
+07332,Landkreis Bad Dürkheim,Rheinland-Pfalz,rural
+09181,Landkreis Landsberg am Lech,Bayern,rural
+09779,Landkreis Donau-Ries,Bayern,rural
+12064,Landkreis Märkisch-Oderland,Brandenburg,rural
+12070,Landkreis Prignitz,Brandenburg,rural
+15084,Landkreis Burgenlandkreis,Sachsen-Anhalt,rural
+15090,Landkreis Stendal,Sachsen-Anhalt,rural
+16071,Landkreis Weimarer Land,Thüringen,rural
+01002,Kreisfreie Stadt Kiel,Schleswig-Holstein,urban
+03151,Landkreis Gifhorn,Niedersachsen,rural
+03154,Landkreis Helmstedt,Niedersachsen,rural
+03354,Landkreis Lüchow-Dannenberg,Niedersachsen,rural
+03357,Landkreis Rotenburg (Wümme),Niedersachsen,rural
+05366,Kreis Euskirchen,Nordrhein-Westfalen,rural
+05966,Kreis Olpe,Nordrhein-Westfalen,rural
+06532,Landkreis Lahn-Dill-Kreis,Hessen,rural
+08436,Landkreis Ravensburg,Baden-Württemberg,rural
+09163,Kreisfreie Stadt Rosenheim,Bayern,urban
+09178,Landkreis Freising,Bayern,rural
+09180,Landkreis Garmisch-Partenkirchen,Bayern,rural
+09375,Landkreis Regensburg,Bayern,urban
+09377,Landkreis Tirschenreuth,Bayern,rural
+09762,Kreisfreie Stadt Kaufbeuren,Bayern,urban
+09780,Landkreis Oberallgäu,Bayern,urban
+10041,Landkreis Regionalverband Saarbrücken,Saarland,urban
+16077,Landkreis Altenburger Land,Thüringen,rural
+03251,Landkreis Diepholz,Niedersachsen,rural
+03402,Kreisfreie Stadt Emden,Niedersachsen,urban
+05513,Kreisfreie Stadt Gelsenkirchen,Nordrhein-Westfalen,urban
+05570,Kreis Warendorf,Nordrhein-Westfalen,rural
+08421,Stadtkreis Ulm,Baden-Württemberg,urban
+09189,Landkreis Traunstein,Bayern,rural
+09362,Kreisfreie Stadt Regensburg,Bayern,urban
+09363,Kreisfreie Stadt Weiden i.d.OPf.,Bayern,urban
+09561,Kreisfreie Stadt Ansbach,Bayern,urban
+09673,Landkreis Rhön-Grabfeld,Bayern,rural
+12068,Landkreis Ostprignitz-Ruppin,Brandenburg,rural
+01057,Kreis Plön,Schleswig-Holstein,rural
+03256,Landkreis Nienburg (Weser),Niedersachsen,rural
+03454,Landkreis Emsland,Niedersachsen,rural
+03462,Landkreis Wittmund,Niedersachsen,rural
+05958,Kreis Hochsauerlandkreis,Nordrhein-Westfalen,rural
+06439,Landkreis Rheingau-Taunus-Kreis,Hessen,urban
+08117,Landkreis Göppingen,Baden-Württemberg,rural
+08311,Stadtkreis Freiburg im Breisgau,Baden-Württemberg,urban
+09274,Landkreis Landshut,Bayern,urban
+09276,Landkreis Regen,Bayern,rural
+09463,Kreisfreie Stadt Coburg,Bayern,urban
+10043,Landkreis Neunkirchen,Saarland,urban
+13074,Landkreis Nordwestmecklenburg,Mecklenburg-Vorpommern,rural
+05916,Kreisfreie Stadt Herne,Nordrhein-Westfalen,urban
+07132,Landkreis Altenkirchen (Westerwald),Rheinland-Pfalz,rural
+07312,Kreisfreie Stadt Kaiserslautern,Rheinland-Pfalz,urban
+07339,Landkreis Mainz-Bingen,Rheinland-Pfalz,rural
+08135,Landkreis Heidenheim,Baden-Württemberg,rural
+08231,Stadtkreis Pforzheim,Baden-Württemberg,rural
+08416,Landkreis Tübingen,Baden-Württemberg,urban
+08435,Landkreis Bodenseekreis,Baden-Württemberg,rural
+09182,Landkreis Miesbach,Bayern,rural
+09183,Landkreis Mühldorf a.Inn,Bayern,rural
+09185,Landkreis Neuburg-Schrobenhausen,Bayern,rural
+09188,Landkreis Starnberg,Bayern,rural
+09573,Landkreis Fürth,Bayern,rural
+09675,Landkreis Kitzingen,Bayern,rural
+09774,Landkreis Günzburg,Bayern,rural
+12063,Landkreis Havelland,Brandenburg,rural
+12072,Landkreis Teltow-Fläming,Brandenburg,rural
+15083,Landkreis Börde,Sachsen-Anhalt,rural
+03359,Landkreis Stade,Niedersachsen,rural
+03403,Kreisfreie Stadt Oldenburg (Oldb),Niedersachsen,urban
+03453,Landkreis Cloppenburg,Niedersachsen,rural
+05124,Kreisfreie Stadt Wuppertal,Nordrhein-Westfalen,urban
+06437,Landkreis Odenwaldkreis,Hessen,rural
+08215,Landkreis Karlsruhe,Baden-Württemberg,urban
+09261,Kreisfreie Stadt Landshut,Bayern,urban
+09562,Kreisfreie Stadt Erlangen,Bayern,urban
+09674,Landkreis Haßberge,Bayern,rural
+09771,Landkreis Aichach-Friedberg,Bayern,rural
+09773,Landkreis Dillingen a.d.Donau,Bayern,rural
+12066,Landkreis Oberspreewald-Lausitz,Brandenburg,rural
+14625,Landkreis Bautzen,Sachsen,rural
+15001,Kreisfreie Stadt Dessau-Roßlau,Sachsen-Anhalt,rural
+03355,Landkreis Lüneburg,Niedersachsen,rural
+04012,Kreisfreie Stadt Bremerhaven,Bremen,urban
+07111,Kreisfreie Stadt Koblenz,Rheinland-Pfalz,urban
+07317,Kreisfreie Stadt Pirmasens,Rheinland-Pfalz,urban
+07333,Landkreis Donnersbergkreis,Rheinland-Pfalz,rural
+08221,Stadtkreis Heidelberg,Baden-Württemberg,urban
+09263,Kreisfreie Stadt Straubing,Bayern,urban
+09278,Landkreis Straubing-Bogen,Bayern,urban
+09373,Landkreis Neumarkt i.d.OPf.,Bayern,rural
+09565,Kreisfreie Stadt Schwabach,Bayern,urban
+12051,Kreisfreie Stadt Brandenburg an der Havel,Brandenburg,urban
+13076,Landkreis Ludwigslust-Parchim,Mecklenburg-Vorpommern,rural
+16073,Landkreis Saalfeld-Rudolstadt,Thüringen,rural
+01055,Kreis Ostholstein,Schleswig-Holstein,rural
+01058,Kreis Rendsburg-Eckernförde,Schleswig-Holstein,rural
+08136,Landkreis Ostalbkreis,Baden-Württemberg,urban
+08316,Landkreis Emmendingen,Baden-Württemberg,rural
+09162,Kreisfreie Stadt München,Bayern,urban
+09472,Landkreis Bayreuth,Bayern,rural
+09476,Landkreis Kronach,Bayern,rural
+09671,Landkreis Aschaffenburg,Bayern,rural
+15088,Landkreis Saalekreis,Sachsen-Anhalt,rural
+03103,Kreisfreie Stadt Wolfsburg,Niedersachsen,rural
+03158,Landkreis Wolfenbüttel,Niedersachsen,rural
+03451,Landkreis Ammerland,Niedersachsen,rural
+05162,Kreis Rhein-Kreis Neuss,Nordrhein-Westfalen,rural
+05766,Kreis Lippe,Nordrhein-Westfalen,rural
+05914,Kreisfreie Stadt Hagen,Nordrhein-Westfalen,urban
+07331,Landkreis Alzey-Worms,Rheinland-Pfalz,rural
+07334,Landkreis Germersheim,Rheinland-Pfalz,rural
+08225,Landkreis Neckar-Odenwald-Kreis,Baden-Württemberg,rural
+08236,Landkreis Enzkreis,Baden-Württemberg,urban
+09172,Landkreis Berchtesgadener Land,Bayern,rural
+09464,Kreisfreie Stadt Hof,Bayern,urban
+09477,Landkreis Kulmbach,Bayern,rural
+09764,Kreisfreie Stadt Memmingen,Bayern,urban
+09772,Landkreis Augsburg,Bayern,rural
+13073,Landkreis Vorpommern-Rügen,Mecklenburg-Vorpommern,rural
+14524,Landkreis Zwickau,Sachsen,rural
+14626,Landkreis Görlitz,Sachsen,rural
+16072,Landkreis Sonneberg,Thüringen,rural
+05315,Kreisfreie Stadt Köln,Nordrhein-Westfalen,urban
+05370,Kreis Heinsberg,Nordrhein-Westfalen,rural
+06431,Landkreis Bergstraße,Hessen,rural
+06440,Landkreis Wetteraukreis,Hessen,rural
+07313,Kreisfreie Stadt Landau in der Pfalz,Rheinland-Pfalz,urban
+08111,Stadtkreis Stuttgart,Baden-Württemberg,urban
+08335,Landkreis Konstanz,Baden-Württemberg,rural
+08437,Landkreis Sigmaringen,Baden-Württemberg,rural
+09273,Landkreis Kelheim,Bayern,urban
+09662,Kreisfreie Stadt Schweinfurt,Bayern,urban
+09775,Landkreis Neu-Ulm,Bayern,rural
+12065,Landkreis Oberhavel,Brandenburg,rural
+12071,Landkreis Spree-Neiße,Brandenburg,rural
+16070,Landkreis Ilm-Kreis,Thüringen,rural
+16076,Landkreis Greiz,Thüringen,rural
+05512,Kreisfreie Stadt Bottrop,Nordrhein-Westfalen,rural
+07318,Kreisfreie Stadt Speyer,Rheinland-Pfalz,urban
+08222,Stadtkreis Mannheim,Baden-Württemberg,urban
+08327,Landkreis Tuttlingen,Baden-Württemberg,rural
+08417,Landkreis Zollernalbkreis,Baden-Württemberg,rural
+09176,Landkreis Eichstätt,Bayern,rural
+09272,Landkreis Freyung-Grafenau,Bayern,rural
+09677,Landkreis Main-Spessart,Bayern,rural
+12054,Kreisfreie Stadt Potsdam,Brandenburg,rural
+14730,Landkreis Nordsachsen,Sachsen,rural
+03352,Landkreis Cuxhaven,Niedersachsen,rural
+04011,Kreisfreie Stadt Bremen,Bremen,urban
+06433,Landkreis Groß-Gerau,Hessen,urban
+06533,Landkreis Limburg-Weilburg,Hessen,rural
+06635,Landkreis Waldeck-Frankenberg,Hessen,rural
+07235,Landkreis Trier-Saarburg,Rheinland-Pfalz,rural
+08415,Landkreis Reutlingen,Baden-Württemberg,rural
+13004,Kreisfreie Stadt Schwerin,Mecklenburg-Vorpommern,urban
+02000,Kreisfreie Stadt Hamburg,Hamburg,urban
+03101,Kreisfreie Stadt Braunschweig,Niedersachsen,urban
+03457,Landkreis Leer,Niedersachsen,urban
+05112,Kreisfreie Stadt Duisburg,Nordrhein-Westfalen,urban
+05970,Kreis Siegen-Wittgenstein,Nordrhein-Westfalen,rural
+08326,Landkreis Schwarzwald-Baar-Kreis,Baden-Württemberg,rural
+09361,Kreisfreie Stadt Amberg,Bayern,urban
+09462,Kreisfreie Stadt Bayreuth,Bayern,urban
+09574,Landkreis Nürnberger Land,Bayern,rural
+09576,Landkreis Roth,Bayern,rural
+09661,Kreisfreie Stadt Aschaffenburg,Bayern,urban
+10042,Landkreis Merzig-Wadern,Saarland,rural
+14523,Landkreis Vogtlandkreis,Sachsen,rural
+15081,Landkreis Altmarkkreis Salzwedel,Sachsen-Anhalt,rural
+01060,Kreis Segeberg,Schleswig-Holstein,rural
+03459,Landkreis Osnabrück,Niedersachsen,rural
+05119,Kreisfreie Stadt Oberhausen,Nordrhein-Westfalen,urban
+05120,Kreisfreie Stadt Remscheid,Nordrhein-Westfalen,rural
+05158,Kreis Mettmann,Nordrhein-Westfalen,urban
+05382,Kreis Rhein-Sieg-Kreis,Nordrhein-Westfalen,rural
+05554,Kreis Borken,Nordrhein-Westfalen,rural
+07233,Landkreis Vulkaneifel,Rheinland-Pfalz,rural
+07335,Landkreis Kaiserslautern,Rheinland-Pfalz,urban
+08235,Landkreis Calw,Baden-Württemberg,rural
+11000,Kreisfreie Stadt Berlin,Berlin,urban
+01062,Kreis Stormarn,Schleswig-Holstein,rural
+03254,Landkreis Hildesheim,Niedersachsen,rural
+05166,Kreis Viersen,Nordrhein-Westfalen,rural
+05378,Kreis Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,rural
+07320,Kreisfreie Stadt Zweibrücken,Rheinland-Pfalz,urban
+07338,Landkreis Rhein-Pfalz-Kreis,Rheinland-Pfalz,rural
+09171,Landkreis Altötting,Bayern,rural
+09186,Landkreis Pfaffenhofen a.d.Ilm,Bayern,rural
+09461,Kreisfreie Stadt Bamberg,Bayern,urban
+09475,Landkreis Hof,Bayern,rural
+09676,Landkreis Miltenberg,Bayern,rural
+09761,Kreisfreie Stadt Augsburg,Bayern,urban
+12060,Landkreis Barnim,Brandenburg,rural
+14627,Landkreis Meißen,Sachsen,rural
+16054,Kreisfreie Stadt Suhl,Thüringen,rural
+16061,Landkreis Eichsfeld,Thüringen,rural
+03159,Landkreis Göttingen,Niedersachsen,rural
+03257,Landkreis Schaumburg,Niedersachsen,rural
+03452,Landkreis Aurich,Niedersachsen,rural
+03455,Landkreis Friesland,Niedersachsen,rural
+03461,Landkreis Wesermarsch,Niedersachsen,rural
+06435,Landkreis Main-Kinzig-Kreis,Hessen,rural
+06535,Landkreis Vogelsbergkreis,Hessen,rural
+07138,Landkreis Neuwied,Rheinland-Pfalz,rural
+07315,Kreisfreie Stadt Mainz,Rheinland-Pfalz,urban
+08126,Landkreis Hohenlohekreis,Baden-Württemberg,rural
+08317,Landkreis Ortenaukreis,Baden-Württemberg,rural
+09575,Landkreis Neustadt a.d.Aisch-Bad Windsheim,Bayern,rural
+03153,Landkreis Goslar,Niedersachsen,rural
+03241,Landkreis Region Hannover,Niedersachsen,urban
+03460,Landkreis Vechta,Niedersachsen,urban
+05334,Kreis Städteregion Aachen,Nordrhein-Westfalen,urban
+05566,Kreis Steinfurt,Nordrhein-Westfalen,rural
+05754,Kreis Gütersloh,Nordrhein-Westfalen,rural
+05978,Kreis Unna,Nordrhein-Westfalen,urban
+06432,Landkreis Darmstadt-Dieburg,Hessen,urban
+06531,Landkreis Gießen,Hessen,rural
+07316,Kreisfreie Stadt Neustadt an der Weinstraße,Rheinland-Pfalz,rural
+08128,Landkreis Main-Tauber-Kreis,Baden-Württemberg,rural
+08237,Landkreis Freudenstadt,Baden-Württemberg,rural
+09187,Landkreis Rosenheim,Bayern,rural
+09262,Kreisfreie Stadt Passau,Bayern,urban
+09473,Landkreis Coburg,Bayern,urban
+09777,Landkreis Ostallgäu,Bayern,rural
+10045,Landkreis Saarpfalz-Kreis,Saarland,rural
+16062,Landkreis Nordhausen,Thüringen,rural
+03360,Landkreis Uelzen,Niedersachsen,urban
+05117,Kreisfreie Stadt Mülheim an der Ruhr,Nordrhein-Westfalen,urban
+05314,Kreisfreie Stadt Bonn,Nordrhein-Westfalen,urban
+07134,Landkreis Birkenfeld,Rheinland-Pfalz,rural
+08119,Landkreis Rems-Murr-Kreis,Baden-Württemberg,rural
+08127,Landkreis Schwäbisch Hall,Baden-Württemberg,rural
+08325,Landkreis Rottweil,Baden-Württemberg,rural
+09371,Landkreis Amberg-Sulzbach,Bayern,rural
+09763,Kreisfreie Stadt Kempten (Allgäu),Bayern,urban
+13071,Landkreis Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,rural
+14511,Kreisfreie Stadt Chemnitz,Sachsen,urban
+14521,Landkreis Erzgebirgskreis,Sachsen,rural
+14612,Kreisfreie Stadt Dresden,Sachsen,urban
+16069,Landkreis Hildburghausen,Thüringen,urban
+01053,Kreis Herzogtum Lauenburg,Schleswig-Holstein,rural
+03458,Landkreis Oldenburg,Niedersachsen,rural
+05114,Kreisfreie Stadt Krefeld,Nordrhein-Westfalen,urban
+05374,Kreis Oberbergischer Kreis,Nordrhein-Westfalen,rural
+07336,Landkreis Kusel,Rheinland-Pfalz,rural
+09179,Landkreis Fürstenfeldbruck,Bayern,rural
+09190,Landkreis Weilheim-Schongau,Bayern,urban
+09374,Landkreis Neustadt a.d.Waldnaab,Bayern,urban
+09679,Landkreis Würzburg,Bayern,rural
+12062,Landkreis Elbe-Elster,Brandenburg,rural
+03356,Landkreis Osterholz,Niedersachsen,urban
+03358,Landkreis Heidekreis,Niedersachsen,rural
+05122,Kreisfreie Stadt Solingen,Nordrhein-Westfalen,urban
+07133,Landkreis Bad Kreuznach,Rheinland-Pfalz,rural
+07340,Landkreis Südwestpfalz,Rheinland-Pfalz,rural
+08118,Landkreis Ludwigsburg,Baden-Württemberg,urban
+08336,Landkreis Lörrach,Baden-Württemberg,rural
+08425,Landkreis Alb-Donau-Kreis,Baden-Württemberg,rural
+08426,Landkreis Biberach,Baden-Württemberg,rural
+09563,Kreisfreie Stadt Fürth,Bayern,urban
+15002,Kreisfreie Stadt Halle (Saale),Sachsen-Anhalt,urban
+15091,Landkreis Wittenberg,Sachsen-Anhalt,rural
+16074,Landkreis Saale-Holzland-Kreis,Thüringen,rural
+03102,Kreisfreie Stadt Salzgitter,Niedersachsen,rural
+05170,Kreis Wesel,Nordrhein-Westfalen,urban
+05362,Kreis Rhein-Erft-Kreis,Nordrhein-Westfalen,urban
+06412,Kreisfreie Stadt Frankfurt am Main,Hessen,urban
+07337,Landkreis Südliche Weinstraße,Rheinland-Pfalz,rural
+08212,Stadtkreis Karlsruhe,Baden-Württemberg,urban
+08226,Landkreis Rhein-Neckar-Kreis,Baden-Württemberg,urban
+09184,Landkreis München,Bayern,urban
+09279,Landkreis Dingolfing-Landau,Bayern,rural
+09564,Kreisfreie Stadt Nürnberg,Bayern,urban
+12052,Kreisfreie Stadt Cottbus,Brandenburg,urban
+15089,Landkreis Salzlandkreis,Sachsen-Anhalt,rural
+16068,Landkreis Sömmerda,Thüringen,rural
+16075,Landkreis Saale-Orla-Kreis,Thüringen,rural

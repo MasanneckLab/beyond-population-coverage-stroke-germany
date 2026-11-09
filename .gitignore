@@ -1,0 +1,49 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local-only private hospital data and derived hospital-level caches
+data/private/*
+!data/private/.gitkeep
+!data/private/README.md
+*.pkl
+*.log
+*.pid
+
+# Large third-party geospatial/raster files
+data/external/*
+!data/external/README.md
+*.tif
+*.tiff
+*.zip
+
+# Generated outputs
+outputs/figures/*
+!outputs/figures/.gitkeep
+outputs/tables/*
+!outputs/tables/.gitkeep
+
+# Manuscript and office files
+*.docx
+*.xlsx
+*.xls
+
+# Publication documents, secrets, and routing metadata never belong in a release.
+*.pdf
+*.eps
+*.png
+.env
+.env.*
+*.pem
+*.key
+*.npz
+*.npy
+*.bundle
+outputs/**
+!outputs/figures/
+!outputs/figures/.gitkeep
+!outputs/tables/
+!outputs/tables/.gitkeep

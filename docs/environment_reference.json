@@ -1,0 +1,16 @@
+{
+  "python": "3.13.3",
+  "role": "Observed submission environment, not a portable installation lock",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "geopandas": "1.1.2",
+    "shapely": "2.1.2",
+    "rasterio": "1.4.4",
+    "scipy": "1.16.0",
+    "matplotlib": "3.10.8",
+    "Pillow": "11.2.1",
+    "openrouteservice": "2.3.3",
+    "requests": "2.32.3"
+  }
+}

@@ -1,0 +1,4 @@
+Scenario,Counties_covered,Counties_uncovered,Pop_covered_pct,Strokes_covered_pct,Pct65_covered,StrokeRate_covered,Pct65_uncovered,StrokeRate_uncovered
+Stroke Units (30 min),339,61,90.4,89.5,22.4,286,25.8,317
+Lysis ≥25/yr (30 min),365,35,95.2,94.6,22.6,287,26.0,319
+Thrombectomy ≥25/yr (60 min),394,6,99.1,99.0,22.7,288,28.8,347

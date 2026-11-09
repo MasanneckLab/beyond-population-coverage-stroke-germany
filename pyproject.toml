@@ -1,0 +1,22 @@
+[project]
+name = "beyond-population-coverage-stroke-germany"
+version = "1.0.0"
+description = "Urban-rural disparities in access to acute stroke care in Germany: a nationwide geospatial analysis"
+readme = "README.md"
+dynamic = ["dependencies"]
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [
+  { name = "Lars Masanneck" }
+]
+
+[tool.setuptools]
+packages = ["geostroke", "scripts"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+

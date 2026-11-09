@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript."
+title: "Urban-rural disparities in access to acute stroke care in Germany: a nationwide geospatial analysis"
+authors:
+  - family-names: Masanneck
+    given-names: Lars
+  - family-names: Pawlitzki
+    given-names: Marc
+  - family-names: Meuth
+    given-names: Sven G
+  - family-names: Schreiber
+    given-names: Stefanie
+  - family-names: Gliem
+    given-names: Michael
+  - family-names: Audebert
+    given-names: Heinrich J
+license: MIT
+repository-code: "https://github.com/MasanneckLab/beyond-population-coverage-stroke-germany"
+date-released: 2026-11-09
+version: "1.0.0"
+

@@ -1,0 +1,15 @@
+label,time_min,population,pct,n_facilities
+Certified Stroke Units (30 min),30.0,71064574,85.42,353.0
+Lysis Centers ≥25 (30 min),30.0,74540300,89.6,424.0
+Thrombectomy Centers ≥25 (60 min),60.0,81286730,97.71,198.0
+Stroke Units + Lysis Centers (30 min),,75004768,90.16,
+Stroke Units (30 min) + Thrombectomy Centers (60 min),,81728861,98.24,
+Extended Stroke + Lysis (30 min) + Thrombectomy (60 min),,82198116,98.8,
+Lysis ≥25 (15 min),15.0,41066373,49.36,424.0
+Lysis ≥25 (30 min),30.0,74540300,89.6,424.0
+Lysis ≥25 (45 min),45.0,81868663,98.41,424.0
+Lysis ≥25 (60 min),60.0,82784372,99.51,424.0
+Thrombectomy ≥25 (15 min),15.0,28099758,33.78,198.0
+Thrombectomy ≥25 (30 min),30.0,59944556,72.05,198.0
+Thrombectomy ≥25 (45 min),45.0,75665329,90.95,198.0
+Thrombectomy ≥25 (60 min),60.0,81286730,97.71,198.0

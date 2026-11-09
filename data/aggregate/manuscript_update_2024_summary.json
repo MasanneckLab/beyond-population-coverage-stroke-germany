@@ -1,0 +1,345 @@
+{
+  "icd_total": 241251,
+  "reporting_facilities_2024": 2220,
+  "coverage_denominator": 83194666.82777423,
+  "stroke_units_total": 353,
+  "stroke_units_nontele": 322,
+  "stroke_curve_full": [
+    {
+      "time_min": 5,
+      "pct": 7.87
+    },
+    {
+      "time_min": 10,
+      "pct": 26.32
+    },
+    {
+      "time_min": 15,
+      "pct": 46.56
+    },
+    {
+      "time_min": 20,
+      "pct": 63.79
+    },
+    {
+      "time_min": 25,
+      "pct": 76.73
+    },
+    {
+      "time_min": 30,
+      "pct": 85.42
+    },
+    {
+      "time_min": 35,
+      "pct": 91.15
+    },
+    {
+      "time_min": 40,
+      "pct": 94.61
+    },
+    {
+      "time_min": 45,
+      "pct": 96.76
+    },
+    {
+      "time_min": 50,
+      "pct": 97.97
+    },
+    {
+      "time_min": 55,
+      "pct": 98.62
+    },
+    {
+      "time_min": 60,
+      "pct": 99.07
+    }
+  ],
+  "lysis_curve_full": [
+    {
+      "time_min": 5,
+      "pct": 8.26
+    },
+    {
+      "time_min": 10,
+      "pct": 27.8
+    },
+    {
+      "time_min": 15,
+      "pct": 49.36
+    },
+    {
+      "time_min": 20,
+      "pct": 67.68
+    },
+    {
+      "time_min": 25,
+      "pct": 81.2
+    },
+    {
+      "time_min": 30,
+      "pct": 89.6
+    },
+    {
+      "time_min": 35,
+      "pct": 94.49
+    },
+    {
+      "time_min": 40,
+      "pct": 97.07
+    },
+    {
+      "time_min": 45,
+      "pct": 98.41
+    },
+    {
+      "time_min": 50,
+      "pct": 99.0
+    },
+    {
+      "time_min": 55,
+      "pct": 99.34
+    },
+    {
+      "time_min": 60,
+      "pct": 99.51
+    }
+  ],
+  "mt_curve_full": [
+    {
+      "time_min": 5,
+      "pct": 4.92
+    },
+    {
+      "time_min": 10,
+      "pct": 17.83
+    },
+    {
+      "time_min": 15,
+      "pct": 33.78
+    },
+    {
+      "time_min": 20,
+      "pct": 48.85
+    },
+    {
+      "time_min": 25,
+      "pct": 61.67
+    },
+    {
+      "time_min": 30,
+      "pct": 72.05
+    },
+    {
+      "time_min": 35,
+      "pct": 80.14
+    },
+    {
+      "time_min": 40,
+      "pct": 86.24
+    },
+    {
+      "time_min": 45,
+      "pct": 90.95
+    },
+    {
+      "time_min": 50,
+      "pct": 94.12
+    },
+    {
+      "time_min": 55,
+      "pct": 96.25
+    },
+    {
+      "time_min": 60,
+      "pct": 97.71
+    }
+  ],
+  "ivt_proc": {
+    "raw_sites": 652,
+    "total_proc": 47220,
+    "national_rate_pct": 19.572975863312482,
+    "centers_25": 424,
+    "proc_thresh": 45044,
+    "proc_thresh_pct": 95.39178314273613,
+    "median": 95.0,
+    "q1": 50.75,
+    "q3": 140.0,
+    "centers_100": 202,
+    "centers_10": 512,
+    "proc_10": 46416
+  },
+  "mt_proc": {
+    "raw_sites": 251,
+    "total_proc": 26965,
+    "national_rate_pct": 11.177155742359616,
+    "centers_25": 198,
+    "proc_thresh": 26355,
+    "proc_thresh_pct": 97.7378082699796,
+    "median": 100.0,
+    "q1": 60.0,
+    "q3": 175.0,
+    "centers_100": 101,
+    "centers_10": 229,
+    "proc_10": 26832
+  },
+  "supp_threshold_coverages": {
+    "ivt": {
+      ">=10_n": 512,
+      ">=25_n": 424,
+      ">=50_n": 323,
+      ">=100_n": 202,
+      ">=10_pct": 91.93,
+      ">=25_pct": 89.6,
+      ">=50_pct": 85.11,
+      ">=100_pct": 74.53
+    },
+    "mt": {
+      ">=10_n": 229,
+      ">=25_n": 198,
+      ">=50_n": 162,
+      ">=100_n": 101,
+      ">=10_pct": 98.21,
+      ">=25_pct": 97.71,
+      ">=50_pct": 97.16,
+      ">=100_pct": 93.62
+    }
+  },
+  "table2_full_raster": [
+    {
+      "Facility type": "Non-telemedical certified stroke units",
+      "Facilities (n)": 322,
+      "Population Coverage (%)": 82.98,
+      "Age-Adjusted Coverage (%)": 81.83,
+      "Diff (pp)": 1.15,
+      "Urban Coverage (%)": 90.61,
+      "Rural Coverage (%)": 62.46
+    },
+    {
+      "Facility type": "All certified stroke units",
+      "Facilities (n)": 353,
+      "Population Coverage (%)": 85.42,
+      "Age-Adjusted Coverage (%)": 84.43,
+      "Diff (pp)": 0.99,
+      "Urban Coverage (%)": 92.35,
+      "Rural Coverage (%)": 66.78
+    },
+    {
+      "Facility type": "Certified + stroke-ready hospitals (>100 OPS 8-98b/8-981 per year)",
+      "Facilities (n)": 437,
+      "Population Coverage (%)": 89.79,
+      "Age-Adjusted Coverage (%)": 89.15,
+      "Diff (pp)": 0.64,
+      "Urban Coverage (%)": 95.26,
+      "Rural Coverage (%)": 75.09
+    },
+    {
+      "Facility type": "IVT centers >=25/year",
+      "Facilities (n)": 424,
+      "Population Coverage (%)": 89.6,
+      "Age-Adjusted Coverage (%)": 89.0,
+      "Diff (pp)": 0.6,
+      "Urban Coverage (%)": 95.04,
+      "Rural Coverage (%)": 74.97
+    },
+    {
+      "Facility type": "MT centers >=25/year",
+      "Facilities (n)": 198,
+      "Population Coverage (%)": 97.71,
+      "Age-Adjusted Coverage (%)": 97.63,
+      "Diff (pp)": 0.08,
+      "Urban Coverage (%)": 98.88,
+      "Rural Coverage (%)": 94.55
+    }
+  ],
+  "age_calibration": [
+    {
+      "age_group": "<45",
+      "population": 41288197,
+      "case_share": 0.03,
+      "estimated_cases": 7237.53,
+      "rate_per_100000": 17.52929535770235
+    },
+    {
+      "age_group": "45-64",
+      "population": 23283869,
+      "case_share": 0.2,
+      "estimated_cases": 48250.2,
+      "rate_per_100000": 207.2258695494293
+    },
+    {
+      "age_group": "65-74",
+      "population": 9770647,
+      "case_share": 0.3,
+      "estimated_cases": 72375.3,
+      "rate_per_100000": 740.742143278741
+    },
+    {
+      "age_group": "75+",
+      "population": 9234427,
+      "case_share": 0.47,
+      "estimated_cases": 113387.97,
+      "rate_per_100000": 1227.883116082893
+    }
+  ],
+  "progressive_coverage": [
+    {
+      "Step": 1,
+      "Facilities (n)": 322,
+      "Coverage (%)": 82.98,
+      "Added %": null
+    },
+    {
+      "Step": 2,
+      "Facilities (n)": 353,
+      "Coverage (%)": 85.42,
+      "Added %": 2.44
+    },
+    {
+      "Step": 3,
+      "Facilities (n)": 437,
+      "Coverage (%)": 89.79,
+      "Added %": 4.37
+    },
+    {
+      "Step": 4,
+      "Facilities (n)": 577,
+      "Coverage (%)": 92.52,
+      "Added %": 2.73
+    }
+  ],
+  "stroke_ready_additional_n": 84,
+  "urban_rural": {
+    "urban_counties": 139,
+    "rural_counties": 261,
+    "other_counties": 0,
+    "definition": "County-classification summaries; main Table 2 instead uses pixel-level SMOD urban/rural groups",
+    "urban": {
+      "Type": "urban",
+      "N_counties": 139,
+      "Pop": 38664350,
+      "Pct_65plus": 21.0,
+      "Stroke_rate": 271,
+      "Expected_strokes": 104663,
+      "SU_30_pop_pct": 96.8,
+      "SU_30_stroke_pct": 96.5,
+      "Lysis_30_pop_pct": 97.3,
+      "Lysis_30_stroke_pct": 97.1,
+      "MT_60_pop_pct": 99.7,
+      "MT_60_stroke_pct": 99.6
+    },
+    "rural": {
+      "Type": "rural",
+      "N_counties": 261,
+      "Pop": 44912790,
+      "Pct_65plus": 24.3,
+      "Stroke_rate": 304,
+      "Expected_strokes": 136588,
+      "SU_30_pop_pct": 75.0,
+      "SU_30_stroke_pct": 74.3,
+      "Lysis_30_pop_pct": 82.5,
+      "Lysis_30_stroke_pct": 82.0,
+      "MT_60_pop_pct": 95.7,
+      "MT_60_stroke_pct": 95.4
+    }
+  }
+}

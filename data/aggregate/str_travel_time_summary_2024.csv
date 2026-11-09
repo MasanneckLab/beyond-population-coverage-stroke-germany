@@ -1,0 +1,25 @@
+Model,Therapy,Group,N_counties,Mean_STR_unweighted,Median_STR,IQR_STR,Counties_STR_lt_0_5,Pct_counties_STR_lt_0_5,Mean_nearest_access,Access_unit
+Current km-based STR,IVT,All counties,400,1.06,0.73,0.44-1.36,118,29.5,8.5,km
+Current km-based STR,IVT,Urban counties,139,1.76,1.51,0.84-2.29,16,11.5,4.0,km
+Current km-based STR,IVT,Rural counties,261,0.69,0.59,0.37-0.83,102,39.1,10.9,km
+ORS travel-time STR (primary),IVT,All counties,400,1.02,0.84,0.59-1.26,67,16.8,9.6,min
+ORS travel-time STR (primary),IVT,Urban counties,139,1.45,1.27,0.90-1.69,8,5.8,8.5,min
+ORS travel-time STR (primary),IVT,Rural counties,261,0.79,0.71,0.52-0.92,59,22.6,10.2,min
+ORS travel-time STR (narrow cutoff),IVT,All counties,400,1.05,0.85,0.57-1.27,74,18.5,9.6,min
+ORS travel-time STR (narrow cutoff),IVT,Urban counties,139,1.51,1.26,0.88-1.75,8,5.8,8.5,min
+ORS travel-time STR (narrow cutoff),IVT,Rural counties,261,0.8,0.74,0.49-0.99,66,25.3,10.2,min
+"ORS travel-time STR (candidate envelope, no time cutoff)",IVT,All counties,400,1.0,0.82,0.60-1.21,53,13.2,9.6,min
+"ORS travel-time STR (candidate envelope, no time cutoff)",IVT,Urban counties,139,1.38,1.25,0.89-1.66,6,4.3,8.5,min
+"ORS travel-time STR (candidate envelope, no time cutoff)",IVT,Rural counties,261,0.79,0.73,0.54-0.92,47,18.0,10.2,min
+Current km-based STR,MT,All counties,400,0.93,0.5,0.33-1.01,197,49.2,16.7,km
+Current km-based STR,MT,Urban counties,139,1.73,1.24,0.58-2.22,25,18.0,8.4,km
+Current km-based STR,MT,Rural counties,261,0.5,0.41,0.29-0.56,172,65.9,21.1,km
+ORS travel-time STR (primary),MT,All counties,400,0.9,0.71,0.50-1.09,101,25.2,19.2,min
+ORS travel-time STR (primary),MT,Urban counties,139,1.33,1.19,0.81-1.53,10,7.2,13.9,min
+ORS travel-time STR (primary),MT,Rural counties,261,0.67,0.62,0.45-0.80,91,34.9,22.0,min
+ORS travel-time STR (narrow cutoff),MT,All counties,400,0.91,0.69,0.46-1.12,122,30.5,19.2,min
+ORS travel-time STR (narrow cutoff),MT,Urban counties,139,1.41,1.24,0.76-1.67,12,8.6,13.9,min
+ORS travel-time STR (narrow cutoff),MT,Rural counties,261,0.64,0.56,0.39-0.78,110,42.1,22.0,min
+"ORS travel-time STR (candidate envelope, no time cutoff)",MT,All counties,400,0.9,0.77,0.59-1.03,57,14.2,19.2,min
+"ORS travel-time STR (candidate envelope, no time cutoff)",MT,Urban counties,139,1.24,1.14,0.81-1.41,5,3.6,13.9,min
+"ORS travel-time STR (candidate envelope, no time cutoff)",MT,Rural counties,261,0.72,0.69,0.53-0.83,52,19.9,22.0,min
